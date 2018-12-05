@@ -37,11 +37,13 @@
 .header__item3 {
   grid-column: item3;
   opacity: 0.6;
+  color: #333333
 }
 
 .header__item4 {
   grid-column: item4;
   opacity: 0.6;
+  color: #333333
 }
 
 .header__outline {
@@ -186,7 +188,7 @@
   position: relative;
   padding-left: 26px;
   padding-top: 26px;
-  background: url(/blocks/heading/images/cloud-drizzle.png) no-repeat center;
+  background: url(blocks/heading/images/cloud-drizzle.png) no-repeat center;
   content: "";
   padding: 0 0 53px 45px;
 }
@@ -246,7 +248,7 @@
   position: absolute;
   margin-top: 1px;
   content: "";
-  background: #F7F7F7 url("/blocks/heading/images/ M.svg") no-repeat center;
+  background: #F7F7F7 url("blocks/heading/images/ M.svg") no-repeat center;
   width: 200px;
   height: 35px;
   border-top-left-radius: 20px;
